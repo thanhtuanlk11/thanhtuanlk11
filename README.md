@@ -1,3 +1,6 @@
+### H there, I'm Nam
+
+## I'm student, developer and a goodboy :((
 - 👋 Hi, I’m  Thành Nam
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
