@@ -38,17 +38,10 @@
 
 
 
-
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=nightowl&amp" alt="thanhtuanlk11"  style="max-width: 100%;">
 
-
-
-
-
-
-
-
-<img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;">
+<img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;"></div>
 
 
 
