@@ -2,19 +2,19 @@
 ### Hi there, I'm Thanh Nam 
 <ul>
 <li>
-<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I lile learning <strong>back-end development,..</strong></p>
+<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I like learning <strong>back-end development,..</strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/thanhtuanlk11">https://github.com/thanhtuanlk11</a></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>C#,Python,...</strong></p>
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I'm currently learning<strong>everything</strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Ask me with gmail <strong><a href="namnguyenhuuthanh@gmail.com">namnguyenhuuthanh@gmail.com</a></strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Everything <strong>I like playing game and learning new languages</strong></p>
+<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>I like playing game and learning new languages</strong></p>
 </li>
 </ul>
 
@@ -29,4 +29,5 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100032603981343" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032603981343" height="30" width="40" style="max-width: 100%;"></a>
 <a href="http://www.instagram.com/namnguyenhuuthanh/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/namnguyenhuuthanh/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="http://www.instagram.com/namnguyenhuuthanh/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
