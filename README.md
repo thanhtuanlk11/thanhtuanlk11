@@ -29,5 +29,5 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100032603981343" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032603981343" height="30" width="40" style="max-width: 100%;"></a>
 <a href="http://www.instagram.com/namnguyenhuuthanh/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/namnguyenhuuthanh/" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/feed/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/feed/" rel="nofollow"><img align="center" src="https://img.icons8.com/fluency/2x/gmail-new.png" alt="https://www.linkedin.com/feed/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
