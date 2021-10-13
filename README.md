@@ -2,19 +2,19 @@
 ### Hi there, I'm Thanh Nam 
 <ul>
 <li>
-<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Software development,..</strong></p>
+<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I lile learning <strong>back-end development,..</strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/Dat0309?tab=repositories">https://github.com/Dat0309?tab=repositories</a></p>
+<p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/thanhtuanlk11">https://github.com/thanhtuanlk11</a></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Java, C#,Python,...</strong></p>
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>C#,Python,...</strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:anhtheboy011@gmail.com">anhtheboy011@gmail.com</a></strong></p>
+<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Ask me with gmail <strong><a href="namnguyenhuuthanh@gmail.com">namnguyenhuuthanh@gmail.com</a></strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>Besides studying, I also like to play guitar and read books</strong></p>
+<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Everything <strong>I like playing game and learning new languages</strong></p>
 </li>
 </ul>
 
