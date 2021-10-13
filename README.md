@@ -36,6 +36,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=nightowl&amp" alt="thanhtuanlk11"  style="max-width: 100%;">
 
 
+<img src="https://camo.githubusercontent.com/6651ba78ad21eaedeee2e100c21275a808d27ac17bb5de12f7051a7c414d8221/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d726567696e616c646f6d6f747461" alt="reginaldomcv" data-canonical-src="https://github-profile-trophy.vercel.app/?username=thanhtuanlk11" style="max-width: 100%;">
+
+
 
 
 
