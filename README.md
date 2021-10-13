@@ -39,7 +39,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&amp;layout=compact&amp;theme=nighttow&amp;" alt="thanhtuanlk11"  style="max-width: 100%;"> -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&amp;theme=nightowl&amp; style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&amp;theme=nightowl;" style="max-width: 100%;">
 
 
 <img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=cobalt&amp;hide_border=true" style="max-width: 100%;">
