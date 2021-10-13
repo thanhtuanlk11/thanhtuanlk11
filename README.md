@@ -37,7 +37,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" style="max-width: 100%;">
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue"" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue"" style="max-width: 100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" style="max-width: 100%;">
 
 
 
