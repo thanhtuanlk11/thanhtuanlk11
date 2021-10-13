@@ -1,5 +1,5 @@
+### Hi there, I'm Thanh Nam
 
-### Hi there, I'm Thanh Nam 
 <ul>
 <li>
 <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I like learning <strong>back-end development,..</strong></p>
@@ -20,9 +20,8 @@
 
 <br/>
 
-
-
 ### Connect with me :
+
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100032603981343" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032603981343" height="30" width="40" style="max-width: 100%;"></a>
 <a href="http://www.instagram.com/namnguyenhuuthanh/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/namnguyenhuuthanh/" height="30" width="40" style="max-width: 100%;"></a>
@@ -36,7 +35,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" style="max-width: 100%;">
 
-
-<img align="center" src="" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
-
-
+<!-- <img align="center" src="https://camo.githubusercontent.com/f405908ca8a3cf3600c696b2c36b20dbb6f8595756f936974276264c63f24e02/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646174303330392673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="dat0309" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dat0309&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"> -->
