@@ -44,7 +44,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+<img align="left" alt="Nguyễn Hữu Thành Nam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuankl11&amp;show_icons=true"/>
 
 
 
