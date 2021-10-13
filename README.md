@@ -38,12 +38,15 @@
 
 
 
-<div style ="text-align:center">
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=nightowl&amp" alt="thanhtuanlk11"  style="max-width: 100%;">
 
-<img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;"></a></div>
 
+
+
+<div align="left"> 
+      <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bb68aa1aebda345b6f38539ca57c35d083e6fcff6e4108135aade81a2b6e29b1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d496d476162726575772673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565267468656d653d6461726b266c696e655f6865696768743d3330"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=nightowl&amp" alt="thanhtuanlk11"  style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e5ead5811da09d7c822d46d92189a6e9ff42eb74b294a8d34d1578e68ed91348/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d496d47616272657577266c61796f75743d636f6d70616374267468656d653d6461726b266c616e67735f636f756e743d313026686964653d6a7570797465722532306e6f7465626f6f6b"><img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;">
+</a>
+</div>
 
 
 
