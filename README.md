@@ -8,7 +8,7 @@
 <p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/thanhtuanlk11">https://github.com/thanhtuanlk11</a></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I'm currently learning<strong>everything</strong></p>
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I'm currently learning<strong> everything</strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Ask me with gmail <strong><a href="namnguyenhuuthanh@gmail.com">namnguyenhuuthanh@gmail.com</a></strong></p>
@@ -40,6 +40,9 @@
 
 <img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;">
 
+
+
+<img width="600" src="https://github.com/thanhtuanlk11/thanhtuanlk11/raw/master/github-metrics.svg" style="max-width: 100%;">
 
 
 
