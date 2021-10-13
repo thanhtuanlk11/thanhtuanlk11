@@ -6,7 +6,7 @@
 <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I like learning <strong>back-end development,..</strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/thanhtuanlk11">https://github.com/thanhtuanlk11</a></p>
+<p align="left"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/thanhtuanlk11">https://github.com/thanhtuanlk11</a></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I'm currently learning<strong> everything</strong></p>
