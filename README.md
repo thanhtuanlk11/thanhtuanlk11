@@ -40,13 +40,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=vue" style="max-width: 100%;">
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11" style="max-width: 100%;"alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=cobalt&amp;hide_border=true" style="max-width: 100%;"> -->
 
-
-
-<!-- <img align="center" src="" alt="thanhtuanlk11" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"> -->
-
-<img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
+<img align="center" alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=cobalt&amp;hide_border=true" style="max-width: 100%;">
 
 
 
