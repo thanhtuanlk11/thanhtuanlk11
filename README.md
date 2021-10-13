@@ -42,7 +42,6 @@
 
 
 
-<img width="600" src="https://github.com/trungpq163/trungpq163/raw/master/github-metrics.svg" style="max-width: 100%;">
 
 
 
