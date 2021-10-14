@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11" alt="thanhtuanlk11" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11&amp;" style="max-width: 100%;"></div>
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11&theme=chartreuse-dark" alt="thanhtuanlk11" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11&amp;theme=chartreuse-dark" style="max-width: 100%;"></div>
 
 
 
