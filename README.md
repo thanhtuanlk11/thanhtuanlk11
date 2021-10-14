@@ -38,8 +38,10 @@
 
 
 
-
+<div align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=thanhtuanlk11" alt="reginaldomcv" data-canonical-src="https://github-profile-trophy.vercel.app/?username=thanhtuanlk11" style="max-width: 100%;">
+<img  alt="GIF" src="/yuredev/yuredev/raw/master/code.gif?raw=true" height="200" style="max-width: 100%;">
+</div>
 
 
 
