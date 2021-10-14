@@ -57,8 +57,8 @@
 <img  width="400" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" data-canonical-src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&amp;ssl=1" style="max-width: 100%;">
 </div>
 
-
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11" alt="thanhtuanlk11" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11&amp;" style="max-width: 100%;">
+<div align="center">
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11" alt="thanhtuanlk11" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanlk11&amp;" style="max-width: 100%;"></div>
 
 
 
