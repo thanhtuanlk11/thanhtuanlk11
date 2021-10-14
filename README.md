@@ -12,7 +12,7 @@
 <p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I'm currently learning<strong> everything</strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Ask me with gmail <strong><a href="namnguyenhuuthanh@gmail.com">namnguyenhuuthanh@gmail.com</a></strong></p>
+<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="www.gmail.com">📫</g-emoji> Ask me with gmail <strong><a href="namnguyenhuuthanh@gmail.com">namnguyenhuuthanh@gmail.com</a></strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>I like playing game and learning new languages</strong></p>
