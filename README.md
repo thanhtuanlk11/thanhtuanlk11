@@ -51,7 +51,7 @@
 
 <div align="left"> 
       <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=chartreuse-dark"><img width="378px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanlk11&layout=compact&theme=chartreuse-dark" alt="thanhtuanlk11"  style="max-width: 100%;"></a>
-      <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true"><img width="400px"  alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true" style="max-width: 100%;">
+      <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true"><img width="400px"  alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhtuanlk11&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true" style="max-width: 150%;">
 </a>
 </div>
 
