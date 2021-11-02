@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100032603981343" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032603981343" height="30" width="40" style="max-width: 100%;"></a>
 <a href="http://www.instagram.com/namnguyenhuuthanh/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/namnguyenhuuthanh/" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/feed/" rel="nofollow"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/feed/" rel="nofollow"><img align="center" src="https://banner2.cleanpng.com/20180320/kgq/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453.jpg" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 ### Languages and Tools:
