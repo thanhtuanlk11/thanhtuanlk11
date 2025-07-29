@@ -2,8 +2,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="360px" align="right" alt="Computador Kauã Marangoni" style="max-width: 100%;"></a></h3>
 
 <ul>
+      <li>
+<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'am a software engineer </strong></p>
+</li>
 <li>
-<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I like learning <strong>back-end development,...</strong></p>
+<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m think I like learning <strong>fullstack development,... </strong></p>
 </li>
 <li>
 <p align="left"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/thanhtuanlk11">https://github.com/thanhtuanlk11</a></p>
